@@ -1,6 +1,6 @@
 body {
   position: relative;
-  width: 2345px;
+  width: 1600px;
   height: 5627px;
   background: #282828;
   left: -320px;
@@ -1392,11 +1392,437 @@ body {
 
 .rectangle_41 {
   position: absolute;
-  width: 100%;
+  width: 150%;
   height: 2px;
   left: 0px;
-  top: 4990px;
+  top: 428px;
   background: #9c69e2;
   opacity: 0.2;
   box-shadow: 0px -7px 0px rgba(255, 255, 255, 0.19);
+}
+
+.footer {
+  position: absolute;
+  width: 1202px;
+  height: 659px;
+  left: 240px;
+  top: 4784px;
+}
+
+.try {
+  position: absolute;
+  width: 405px;
+  height: 52px;
+  left: 240px;
+  top: -4300px;
+
+  font-family: "Nova Round", cursive;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 130%;
+  display: flex;
+  align-items: center;
+
+  color: #30fbef;
+}
+
+.get {
+  position: absolute;
+  width: 584px;
+  height: 29px;
+  left: 240px;
+  top: -4220px;
+
+  font-family: "Nova Round", cursive;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 160%;
+  color: #ffffff;
+}
+
+.foot_rectangle_26 {
+  box-shadow: 4px 3px 8px rgba(0, 0, 0, 0.25),
+    -3px -3px 8px rgba(75, 93, 104, 0.1);
+  border-radius: 50px;
+  background: #282828;
+  border: none;
+  text-align: center;
+  position: absolute;
+  width: 190px;
+  height: 60px;
+  left: 1380px;
+  top: -4300px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+  font-family: "Nova Round", cursive;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 160%;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.005em;
+  color: #9c69e2;
+}
+
+.foot_rectangle_26 span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+  left: 30px;
+}
+
+.foot_vector_74 {
+  position: absolute;
+  width: 22px;
+  height: 17px;
+  left: 153px;
+  top: 22px;
+  background-image: url(img/arrow.png);
+}
+
+.foot_rectangle_25 {
+  box-shadow: 4px 3px 8px rgba(0, 0, 0, 0.25),
+    -3px -3px 8px rgba(75, 93, 104, 0.1);
+  border-radius: 50px;
+  background: #282828;
+  border: none;
+  text-align: center;
+  position: absolute;
+  width: 190px;
+  height: 60px;
+  left: 1170px;
+  top: -4294px;
+  transition: all 0.5s;
+  cursor: pointer;
+  font-family: "Nova Round", cursive;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 160%;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.005em;
+  color: #ffffff;
+}
+
+.foot_rectangle_25 span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+  left: 45px;
+}
+
+.foot_group_62 {
+  position: absolute;
+  width: 177px;
+  height: 60px;
+  left: 90px;
+  top: -4080px;
+}
+.foot_Abstract_Circle_1 {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  left: 150px;
+  top: 67px;
+
+  background: url(img/Circle.png);
+}
+.foot_insignia_text {
+  position: absolute;
+  width: 108px;
+  height: 33px;
+  left: 219px;
+  top: 76px;
+
+  font-family: "Nova Round", cursive;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 160%;
+  color: #30fbef;
+}
+
+.foot_text {
+  position: absolute;
+  width: 335px;
+  height: 65px;
+  left: 240px;
+  top: -3885px;
+
+  font-family: "Nova Round", cursive;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 180%;
+  letter-spacing: 0.01em;
+  color: #30fbef;
+}
+
+.info_text {
+  position: absolute;
+  width: 335px;
+  height: 60px;
+  left: 240px;
+  top: -3810px;
+
+  font-family: "Nova Round", cursive;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 180%;
+  /* or 29px */
+
+  letter-spacing: 0.01em;
+
+  /* 2 */
+
+  color: #30fbef;
+}
+
+.copy_text {
+  position: absolute;
+  width: 360px;
+  height: 50px;
+  left: 240px;
+  top: -3632px;
+
+  font-family: "Nova Round", cursive;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 180%;
+  /* or 22px */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.01em;
+
+  /* 2 */
+
+  color: #30fbef;
+}
+
+.foot_about {
+  position: absolute;
+  width: 51.75px;
+  height: 30px;
+  left: 715px;
+  top: -4000px;
+
+  font-family: "Nova Round", cursive;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 160%;
+  color: #30fbef;
+}
+
+.foot_about_text {
+  position: absolute;
+  width: 166px;
+  height: 160px;
+  left: 715px;
+  top: -3940px;
+
+  font-family: "Nova Round", cursive;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 250%;
+  cursor: pointer;
+  color: #30fbef;
+}
+
+.foot_help {
+  position: absolute;
+  width: 51.75px;
+  height: 30px;
+  left: 931px;
+  top: -4000px;
+
+  font-family: "Nova Round", cursive;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 160%;
+  color: #30fbef;
+}
+
+.foot_help_text {
+  position: absolute;
+  width: 166px;
+  height: 160px;
+  left: 931px;
+  top: -3940px;
+
+  font-family: "Nova Round", cursive;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 250%;
+  cursor: pointer;
+  color: #30fbef;
+}
+
+.social {
+  position: absolute;
+  width: 170px;
+  height: 30px;
+  left: 1147px;
+  top: -4000px;
+
+  font-family: "Nova Round", cursive;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 160%;
+  /* or 26px */
+
+  /* 2 */
+
+  color: #30fbef;
+}
+
+.ft_grp_34 {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  left: 21px;
+  top: -8345px;
+
+  filter: drop-shadow(4px 3px 8px rgba(0, 0, 0, 0.25))
+    drop-shadow(-3px -3px 8px rgba(75, 93, 104, 0.1));
+}
+
+.foot_group_34 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  left: 1134px;
+  top: 4405px;
+  align-items: center;
+  background: url(img/FacebookLogo.png), #282828;
+  box-shadow: inset 2px 2px 4px rgba(0, 0, 0, 0.3);
+  border-radius: 50px;
+}
+
+.ft_grp_32 {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  left: 62px;
+  top: -8345px;
+
+  filter: drop-shadow(4px 3px 8px rgba(0, 0, 0, 0.25))
+    drop-shadow(-3px -3px 8px rgba(75, 93, 104, 0.1));
+}
+
+.foot_group_32 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  left: 1362px;
+  top: 4405px;
+
+  background: url(img/InstagramLogo.png), #282828;
+  box-shadow: inset 2px 2px 4px rgba(0, 0, 0, 0.3);
+  border-radius: 50px;
+}
+
+.ft_grp_33 {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  left: 38px;
+  top: -8345px;
+
+  filter: drop-shadow(4px 3px 8px rgba(0, 0, 0, 0.25))
+    drop-shadow(-3px -3px 8px rgba(75, 93, 104, 0.1));
+}
+
+.foot_group_33 {
+  position: absolute;
+  width: 53px;
+  height: 53px;
+  left: 1248px;
+  top: 4405px;
+
+  background: url(img/TwitterLogo.png), #282828;
+  box-shadow: inset 2px 2px 4px rgba(0, 0, 0, 0.3);
+  border-radius: 50px;
+}
+
+.chat {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  left: 5px;
+  top: -9010px;
+  background-image: url(img/Union.png), #ffffff;
+  box-shadow: 4px 3px 8px rgba(0, 0, 0, 0.25),
+    -3px -3px 8px rgba(75, 93, 104, 0.1);
+  border-radius: 50px;
+}
+
+.union_ellipse1 {
+  position: absolute;
+  width: 3px;
+  height: 3px;
+  left: 1332px;
+  top: 5410px;
+
+  background: #e5e5e5;
+}
+
+.union_ellipse2 {
+  position: absolute;
+  width: 3px;
+  height: 3px;
+  left: 1326px;
+  top: 5410px;
+
+  background: #e5e5e5;
+}
+
+.union_ellipse3 {
+  position: absolute;
+  width: 3px;
+  height: 3px;
+  left: 1320px;
+  top: 5410px;
+
+  background: #e5e5e5;
+}
+
+.chat_43 {
+  position: absolute;
+    width: 10px;
+    height: 6px;
+    left: 1312px;
+    top: 5423px;
+    background: #e5e5e5;
+    border: 1px solid #e5e5e5;
+    box-sizing: border-box;
+    border-radius: 15px;
+    border-bottom-left-radius: 0px;
+}
+
+.chat_42 {
+  position: absolute;
+  width: 32px;
+  height: 27px;
+  left: 1312px;
+  top: 5398px;
+  background: #282828;
+  border: 5px solid #e5e5e5;
+  box-sizing: border-box;
+  border-radius: 9px;
+  border-bottom-left-radius: 0px;
 }
